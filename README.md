@@ -1,41 +1,81 @@
-<h1 align="center">Hi 👋, I'm Pritam Chakroborty</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# Pritam Chakroborty — Full Stack AI Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anynomous001&label=Profile%20views&color=0e75b6&style=flat" alt="anynomous001" /> </p>
+> Building at the intersection of agentic AI, scalable backend systems, and sharp frontend experiences.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anynomous001" alt="anynomous001" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/pritamchak001" target="blank"><img src="https://img.shields.io/twitter/follow/pritamchak001?logo=twitter&style=for-the-badge" alt="pritamchak001" /></a> </p>
+## What I Do
 
-- 🔭 I’m currently working on [ImageWhisperAI](https://github.com/anynomous001/ImageWhisperAI)
+I design and ship full-stack AI products — from LangGraph agentic pipelines and RAG systems to production Next.js dashboards. I take end-to-end ownership: architecture, backend, frontend, deployment, and observability.
 
-- 🌱 I’m currently learning **Vector Database, Embeddings**
+Currently building **[Prep-Piper](https://github.com/anynomous001/prep-piper)** — an AI-powered interview preparation platform with adaptive agents, real-time feedback, and personalized coaching flows.
 
-- 👯 I’m looking to collaborate on [Zapier](https://github.com/anynomous001/zapier_project)
+---
 
-- 🤝 I’m looking for help with [PlayTM](https://github.com/anynomous001/Turborepo_Paytm)
+## Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://coolstack-dev.vercel.app/](https://coolstack-dev.vercel.app/)
+**AI & Agents**
+`LangChain` `LangGraph` `Crew AI` `RAG Systems` `Agentic Workflows` `OpenAI API` `AI SDK` `n8n`
 
-- 💬 Ask me about **Next,Node,Typescript,Docker, Socket i.o**
+**Frontend**
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion` `Redux` `Recoil`
 
-- 📫 How to reach me **Chakrobortypritam.dev001@gmail.com**
+**Backend**
+`Node.js` `Express` `Hono` `FastAPI` `Python` `Kafka` `RabbitMQ` `Redis` `WebRTC`
 
-- 📄 Know about my experiences [https://coolstack-dev.vercel.app/resume.pdf](https://coolstack-dev.vercel.app/resume.pdf)
+**Database & Infra**
+`PostgreSQL` `MongoDB` `Prisma` `Vector DB` `Docker` `AWS (S3, EC2)` `Kubernetes`
 
-- ⚡ Fun fact **I Think I am Funny Hehe :}**
+**Observability**
+`Prometheus` `Grafana` `New Relic` `LangSmith`
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## Featured Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Prep-Piper](https://github.com/anynomous001/prep-piper) | AI mock interview platform with adaptive agents & real-time feedback | Next.js · LangGraph · RAG · TypeScript |
+| [Zapier Automation](https://github.com/anynomous001/zapier_project) | Event-driven automation with Kafka pub-sub, webhook ingestion & dashboards | Node.js · Kafka · PostgreSQL · Prisma |
+| [ImageWhisperAI](https://github.com/anynomous001/ImageWhisperAI) | Serverless AI image analysis under 300ms using OpenAI Vision API | Next.js · OpenAI · TypeScript |
+
+---
+
+## Experience
+
+- **Software Developer** — Prep-Piper *(2025 – Present)*
+  Core AI + full-stack architecture. Agentic workflows, RAG systems, real-time interview analysis.
+
+- **Full Stack Developer** — TruPass *(2025 – 2026)*
+  Owned end-to-end architecture of a merchant platform — PostgreSQL schema, Python APIs, RBAC, billing, AWS deployment.
+
+- **Frontend Developer** — Chingu *(Dec 2023 – Mar 2024)*
+  Motion-rich web experiences with Next.js + Framer Motion. Mentored 5 developers, improved delivery predictability by 60%.
+
+---
+
+## Writing
+
+I write about AI engineering, system design, and building products that ship fast.
+
+→ [Read on Hashnode](https://hashnode.com/@Pritam-dev)
+
+---
+
+## Let's Connect
+
+- 🌐 Portfolio: [generative-ai-portfolio.vercel.app](https://generative-ai-portfolio.vercel.app)
+- 💼 LinkedIn: [pritamchakroborty](https://www.linkedin.com/in/pritamchakroborty/)
+- 🐦 X / Twitter: [@Pritamchak001](https://twitter.com/Pritamchak001)
+- 📧 Email: chakrobortypritam1@gmail.com
+- 📅 Book a call: [calendly.com/pritam-chakroborty/intro-call](https://calendly.com/pritam-chakroborty/intro-call)
+
+---
+
+*Open to Founding Engineer and AI Engineer roles at ambitious startups.*
+
+---
+
 <p align="left">
-<a href="https://twitter.com/pritamchak001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritamchak001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pritamchakroborty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pritamchakroborty/" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=anynomous001&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anynomous001&show_icons=true&locale=en&layout=compact" alt="anynomous001" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anynomous001&show_icons=true&locale=en" alt="anynomous001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anynomous001&" alt="anynomous001" /></p>
